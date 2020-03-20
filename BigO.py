@@ -47,3 +47,6 @@ def print_two_pairs(arrayA, arrayB):
 
 ### Example 7
 # all but the last one are O(N)
+
+### Example 9
+# O(N) because still have to loop through each 
