@@ -7,3 +7,5 @@ Watch [this video](https://www.youtube.com/watch?v=v4cd1O4zkGw&list=PLX6IKgS15Ue
 2. Drop constants
 3. Different inputs = different variables
 4. Drop non-dominant terms
+
+Difficult examples to go through are Examples 8 and 12.
