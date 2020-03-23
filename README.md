@@ -21,4 +21,4 @@ You are here.
 [BigO.md](BigO.md): Some notes to go along with the python file. Notes also taken from a HackerRank YouTube video.
 
 ### Recursion and Memoization
-[recursion_memoization.py](recursion_memoization.py): Notes and code on recursion with memoization. The idea of memoization is to cache the values of previous recursive calls so that your code doesn't redo the same work over and over.
+[recursion_memoization.py](recursion_memoization.py): Notes and code on recursion with memoization. The idea of memoization is to cache the values of previous recursive calls so that your code doesn't redo the same work over and over. I learned it from [this Socratica video](https://www.youtube.com/watch?v=Qk0zUZW-U_M), which demonstrates it with the recursive fibonacci code. This code shows both how to implement memoization yourself and how to do it in a single line by using a python library.
