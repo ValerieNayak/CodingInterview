@@ -16,7 +16,7 @@ A directory of all the files in this repo.
 #### README.md
 You are here.
 
-#### Big O
+### Big O
 [BigO.py](BigO.py): Code that goes with the BigO section of Cracking the Coding Interview <br>
 [BigO.md](BigO.md): Some notes to go along with the python file. Notes also taken from a HackerRank YouTube video.
 
