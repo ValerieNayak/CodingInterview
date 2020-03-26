@@ -17,7 +17,7 @@ Preparation: <br>
 2. Write the code on paper.
 3. Test the code on paper.
 4. Type code as-is into the computer.
-All the data structures, algorithms, and concepts on p. 61 of CTCI are important to know how to use and implement. **Hash tables** in particular are very important to be comfortable with.
+<br> All the data structures, algorithms, and concepts on p. 61 of CTCI are important to know how to use and implement. **Hash tables** in particular are very important to be comfortable with.
 
 ## Directory
 A directory of all the files in this repo. 
