@@ -10,11 +10,16 @@ Guide from @cassidoo on getting a gig in college as a tech major.
 - Visual Studio Code [complete overview video](https://www.youtube.com/watch?v=-nh9rCzPJ20)
 - Corey Schafer Videos: [classes for python](https://www.youtube.com/channel/UCCezIgC97PvUuR4_gbFUs5g)
 
+## Technical Questions
+Tips from Cracking the Coding Interview (and other resources I find) <br>
+Preparation: <br>
+1. Try to solve the problem on your own first.
+2. Write the code on paper.
+3. Test the code on paper.
+4. Type code as-is into the computer.
+
 ## Directory
 A directory of all the files in this repo. 
-
-### README.md
-You are here.
 
 ### Big O
 [BigO.py](BigO.py): Code that goes with the BigO section of Cracking the Coding Interview <br>
