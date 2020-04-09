@@ -9,6 +9,7 @@ Guide from @cassidoo on getting a gig in college as a tech major.
 - Python Video Tutorials from [Socratica](https://www.youtube.com/playlist?list=PLi01XoE8jYohWFPpC17Z-wWhPOSuh8Er-)
 - Visual Studio Code [complete overview video](https://www.youtube.com/watch?v=-nh9rCzPJ20)
 - Corey Schafer Videos: [classes for python](https://www.youtube.com/channel/UCCezIgC97PvUuR4_gbFUs5g)
+- YouTube [numpy tutorial video](https://www.youtube.com/watch?v=8JfDAm9y_7s)
 
 ## Technical Questions
 Tips from Cracking the Coding Interview (and other resources I find) <br>
