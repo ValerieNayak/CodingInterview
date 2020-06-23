@@ -1,6 +1,6 @@
 # Valerie Nayak
-# 6/18/2020
-# Question 4.1
+# 6/22/2020
+# Question 4.2
 
 class TreeNode:
     def __init__(self, data=None):
